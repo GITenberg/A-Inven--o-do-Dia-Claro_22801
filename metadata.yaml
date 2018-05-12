@@ -20,6 +20,8 @@ creator:
     - http://pt.wikipedia.org/wiki/Almada_Negreiros
     - http://en.wikipedia.org/wiki/Jos%C3%A9_de_Almada_Negreiros
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22801#A-Inven--o-do-Dia-Claro
 gutenberg_issued: '2007-09-29'
 gutenberg_type: Text
 identifiers:
